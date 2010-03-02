@@ -1,0 +1,6 @@
+Contents:
+start_vpn.scpt - AppleScript to start integrated Snow Leopard VPN service
+stop_vpn.scpt - AppleScript to stop integrated Snow Leopard VPN service
+
+To execute from a shell script use osacript
+
